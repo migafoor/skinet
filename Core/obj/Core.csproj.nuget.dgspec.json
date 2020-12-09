@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj": {}
+    "D:\\Trial\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj": {
+    "D:\\Trial\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Trial\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj",
+        "projectPath": "D:\\Trial\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Win 10 Pro\\.nuget\\packages\\",
-        "outputPath": "D:\\TrialBack\\Test\\skinet\\Core\\obj\\",
+        "outputPath": "D:\\Trial\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win 10 Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrialBack\\Test\\skinet\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Trial\\skinet\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj": {
+    "D:\\Trial\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Trial\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj",
+        "projectPath": "D:\\Trial\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Win 10 Pro\\.nuget\\packages\\",
-        "outputPath": "D:\\TrialBack\\Test\\skinet\\Core\\obj\\",
+        "outputPath": "D:\\Trial\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win 10 Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\TrialBack\\Test\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Trial\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrialBack\\Test\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Trial\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\TrialBack\\Test\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Trial\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Win 10 Pro\\.nuget\\packages\\",
-        "outputPath": "D:\\TrialBack\\Test\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Trial\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win 10 Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj": {
-                "projectPath": "D:\\TrialBack\\Test\\skinet\\Core\\Core.csproj"
+              "D:\\Trial\\skinet\\Core\\Core.csproj": {
+                "projectPath": "D:\\Trial\\skinet\\Core\\Core.csproj"
               }
             }
           }
@@ -102,7 +102,7 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.0, )"
             }
